@@ -6,7 +6,7 @@
 /*   By: likiffel <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/09 00:16:10 by likiffel          #+#    #+#             */
-/*   Updated: 2024/03/10 22:49:42 by likiffel         ###   ########.fr       */
+/*   Updated: 2024/03/10 23:33:08 by likiffel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,6 @@
 # include <limits.h> 
 
 int		ft_putptr(void *ptr);
-size_t	ft_strlen(const char *s);
 int		ft_putchar(char c);
 int		ft_putnbr(int nb);
 int		int_len(int nb);

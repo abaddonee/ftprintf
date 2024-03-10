@@ -6,10 +6,10 @@
 #    By: likiffel <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/03/10 22:34:30 by likiffel          #+#    #+#              #
-#    Updated: 2024/03/10 22:48:46 by likiffel         ###   ########.fr        #
+#    Updated: 2024/03/10 23:35:46 by likiffel         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
-SRC	= ft_printf.c ft_auxilliaire_1.c ft_auxilliaire_2.c
+SRC	= ft_printf.c ft_put.c ft_itohex.c
 
 OBJS			= $(SRC:.c=.o)
 
